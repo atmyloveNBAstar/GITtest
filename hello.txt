@@ -17,3 +17,4 @@ hello atguige!hello git！!!!!!!
 hello atguige!hello git！!!!!!!
 hello atguige!hello git！!!!!!!
 dwqllo atguige!hello git！!!!!!!
+test git pull!!!
